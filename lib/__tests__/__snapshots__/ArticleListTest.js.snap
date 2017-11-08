@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article List Test Props 1`] = `
+<div>
+  <div>
+    <div>
+      hello world 1
+    </div>
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div />
+    <hr />
+  </div>
+  <div>
+    <div>
+      hello world 2
+    </div>
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div />
+    <hr />
+  </div>
+  <div>
+    <div>
+      hello world 3
+    </div>
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div />
+    <hr />
+  </div>
+</div>
+`;
